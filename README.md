@@ -3,4 +3,5 @@ Trabalho final da disciplina de Banco de Dados II, do curso de Engenharia da Com
 
 # Criadores:
 Clara Araújo Maia
+
 Nicolas Augusto Montovani
