@@ -72,7 +72,7 @@ Podem ocorrer de duas maneiras diferentes:
   </ol>
 </ol>
 
-## Índice Hash Linear
+## Hash Linear
 Consiste na criação de uma tabela hash, em que os dados são armazenados em uma matriz de buckets; resolvida por uma função de hash, mapeando chaves para índices na tabela
 
 ### Resolução de Colisões
